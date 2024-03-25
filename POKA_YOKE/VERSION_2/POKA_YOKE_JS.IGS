@@ -1,7 +1,8 @@
 SolidWorks IGES file using analytic representation for surfaces         S      1
-1H,,1H;,12HPOKA_YOKE_JS,26HL:\SAMAVA\POKA_YOKE_JS.IGS,15HSolidWorks 2020G      1
-,15HSolidWorks 2020,32,308,15,308,15,12HPOKA_YOKE_JS,1.,2,2HMM,50,      G      2
-0.125,13H240321.173222,1E-08,499990.,5HEdgar,,11,0,13H240321.173222;    G      3
+1H,,1H;,14HPOKA_YOKE_JS_2,45HL:\SAMAVA\POKA-YOKE VERSION2\POKA_YOKE_JS.IG      1
+GS,15HSolidWorks 2020,15HSolidWorks 2020,32,308,15,308,15,14HPOKA_YOKE_JG      2
+S_2,1.,2,2HMM,50,0.125,13H240325.151928,1E-08,499990.,5HEdgar,,11,0,13H2G      3
+40325.151928;                                                           G      4
      314       1       0       0       0                        00000200D      1
      314       0       8       1       0                               0D      2
      110       2       0       0       0                        01010000D      3
@@ -4262,4 +4263,4 @@ SolidWorks IGES file using analytic representation for surfaces         S      1
 102,6,1935,1939,1943,1947,1951,1955;                                1959P   2294
 142,1,1931,1957,1959,1;                                             1961P   2295
 144,1931,1,0,1961;                                                  1963P   2296
-S      1G      3D   1964P   2296                                        T      1
+S      1G      4D   1964P   2296                                        T      1
